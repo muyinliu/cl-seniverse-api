@@ -1,0 +1,29 @@
+{
+  "results": [
+    {
+      "location": {
+        "id": "WX4FBXXFKE4F",
+        "name": "北京",
+        "country": "CN",
+        "path": "北京,北京,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "air": {
+        "city": {
+          "aqi": "63",
+          "pm25": "45",
+          "pm10": "64",
+          "so2": "4",
+          "no2": "49",
+          "co": "0.925",
+          "o3": "30",
+          "last_update": "2017-02-21T15:00:00+08:00",
+          "quality": "良"
+        },
+        "stations": null
+      },
+      "last_update": "2017-02-21T15:00:00+08:00"
+    }
+  ]
+}

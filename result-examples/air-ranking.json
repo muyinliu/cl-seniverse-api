@@ -1,0 +1,4063 @@
+{
+  "results": [
+    {
+      "location": {
+        "id": "WM3B1R518R80",
+        "name": "乐山",
+        "country": "CN",
+        "path": "乐山,乐山,四川,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "15"
+    },
+    {
+      "location": {
+        "id": "WM6N2PM3WY2K",
+        "name": "成都",
+        "country": "CN",
+        "path": "成都,成都,四川,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "16"
+    },
+    {
+      "location": {
+        "id": "WMEVJW5E9Q66",
+        "name": "巴中",
+        "country": "CN",
+        "path": "巴中,巴中,四川,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "16"
+    },
+    {
+      "location": {
+        "id": "W7JZGDR3YYTF",
+        "name": "三亚",
+        "country": "CN",
+        "path": "三亚,三亚,海南,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "19"
+    },
+    {
+      "location": {
+        "id": "WKYHZ4GWCU8B",
+        "name": "怀化",
+        "country": "CN",
+        "path": "怀化,怀化,湖南,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "19"
+    },
+    {
+      "location": {
+        "id": "WMXB90VDC7PZ",
+        "name": "荆门",
+        "country": "CN",
+        "path": "荆门,荆门,湖北,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "22"
+    },
+    {
+      "location": {
+        "id": "WHYYKDR3D2H0",
+        "name": "香格里拉",
+        "country": "CN",
+        "path": "香格里拉,迪庆,云南,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "22"
+    },
+    {
+      "location": {
+        "id": "W7W3YQKE4QDH",
+        "name": "海口",
+        "country": "CN",
+        "path": "海口,海口,海南,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "22"
+    },
+    {
+      "location": {
+        "id": "WKVTSQQ2WQS8",
+        "name": "铜仁",
+        "country": "CN",
+        "path": "铜仁,铜仁,贵州,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "22"
+    },
+    {
+      "location": {
+        "id": "WM7RJGM47PV5",
+        "name": "南充",
+        "country": "CN",
+        "path": "南充,南充,四川,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "23"
+    },
+    {
+      "location": {
+        "id": "WPDE8HGNVFWJ",
+        "name": "哈密",
+        "country": "CN",
+        "path": "哈密,哈密,新疆,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "24"
+    },
+    {
+      "location": {
+        "id": "Y8NY1KD57NS4",
+        "name": "乌兰浩特",
+        "country": "CN",
+        "path": "乌兰浩特,乌兰浩特,内蒙古,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "24"
+    },
+    {
+      "location": {
+        "id": "Y8V0J2JZ730B",
+        "name": "海拉尔",
+        "country": "CN",
+        "path": "海拉尔,呼伦贝尔,内蒙古,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "25"
+    },
+    {
+      "location": {
+        "id": "WWX53WXDBY0N",
+        "name": "荣成",
+        "country": "CN",
+        "path": "荣成,威海,山东,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "25"
+    },
+    {
+      "location": {
+        "id": "VB71BQ84QPSS",
+        "name": "塔城",
+        "country": "CN",
+        "path": "塔城,塔城,新疆,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "25"
+    },
+    {
+      "location": {
+        "id": "WHW713U75VQ2",
+        "name": "怒江",
+        "country": "CN",
+        "path": "怒江,怒江,云南,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "25"
+    },
+    {
+      "location": {
+        "id": "YBFTUGSP7QCT",
+        "name": "黑河",
+        "country": "CN",
+        "path": "黑河,黑河,黑龙江,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "26"
+    },
+    {
+      "location": {
+        "id": "WM7JD7CXZK37",
+        "name": "遂宁",
+        "country": "CN",
+        "path": "遂宁,遂宁,四川,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "26"
+    },
+    {
+      "location": {
+        "id": "WMS3W5RJETCF",
+        "name": "达州",
+        "country": "CN",
+        "path": "达州,达州,四川,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "26"
+    },
+    {
+      "location": {
+        "id": "WWWV6YM1F4ZV",
+        "name": "威海",
+        "country": "CN",
+        "path": "威海,威海,山东,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "27"
+    },
+    {
+      "location": {
+        "id": "WSETKW23BDUT",
+        "name": "三明",
+        "country": "CN",
+        "path": "三明,三明,福建,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "27"
+    },
+    {
+      "location": {
+        "id": "YB7XT0YP7SYK",
+        "name": "伊春",
+        "country": "CN",
+        "path": "伊春,伊春,黑龙江,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "27"
+    },
+    {
+      "location": {
+        "id": "WMB74JR8MU82",
+        "name": "阿坝",
+        "country": "CN",
+        "path": "阿坝,阿坝,四川,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "27"
+    },
+    {
+      "location": {
+        "id": "YBBQB6TMV95Z",
+        "name": "大兴安岭",
+        "country": "CN",
+        "path": "大兴安岭,大兴安岭,黑龙江,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "27"
+    },
+    {
+      "location": {
+        "id": "WSKMS3KBE2JM",
+        "name": "泉州",
+        "country": "CN",
+        "path": "泉州,泉州,福建,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "27"
+    },
+    {
+      "location": {
+        "id": "WZ0KQ36Y0N4N",
+        "name": "丹东",
+        "country": "CN",
+        "path": "丹东,丹东,辽宁,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "27"
+    },
+    {
+      "location": {
+        "id": "TVPNW82QN57R",
+        "name": "日喀则",
+        "country": "CN",
+        "path": "日喀则,日喀则,西藏,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "28"
+    },
+    {
+      "location": {
+        "id": "WS7NZ16DHEHU",
+        "name": "龙岩",
+        "country": "CN",
+        "path": "龙岩,龙岩,福建,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "28"
+    },
+    {
+      "location": {
+        "id": "WHZ2BV37270V",
+        "name": "丽江",
+        "country": "CN",
+        "path": "丽江,丽江,云南,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "28"
+    },
+    {
+      "location": {
+        "id": "WRHRGFQ3CQS6",
+        "name": "临河",
+        "country": "CN",
+        "path": "临河,巴彦淖尔,内蒙古,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "29"
+    },
+    {
+      "location": {
+        "id": "YB2JK81THR6Z",
+        "name": "齐齐哈尔",
+        "country": "CN",
+        "path": "齐齐哈尔,齐齐哈尔,黑龙江,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "29"
+    },
+    {
+      "location": {
+        "id": "WZUJT5EC6FK4",
+        "name": "牡丹江",
+        "country": "CN",
+        "path": "牡丹江,牡丹江,黑龙江,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "30"
+    },
+    {
+      "location": {
+        "id": "YBJ1SQ97WHN1",
+        "name": "鸡西",
+        "country": "CN",
+        "path": "鸡西,鸡西,黑龙江,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "30"
+    },
+    {
+      "location": {
+        "id": "YBJH7VFZU4T1",
+        "name": "七台河",
+        "country": "CN",
+        "path": "七台河,七台河,黑龙江,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "30"
+    },
+    {
+      "location": {
+        "id": "WT3Q0FW9ZJ3Q",
+        "name": "武汉",
+        "country": "CN",
+        "path": "武汉,武汉,湖北,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "30"
+    },
+    {
+      "location": {
+        "id": "WMPMM26US87X",
+        "name": "常德",
+        "country": "CN",
+        "path": "常德,常德,湖南,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "30"
+    },
+    {
+      "location": {
+        "id": "WM7V66VSE5DV",
+        "name": "广安",
+        "country": "CN",
+        "path": "广安,广安,四川,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "30"
+    },
+    {
+      "location": {
+        "id": "WXNZM7TPVMMZ",
+        "name": "营口",
+        "country": "CN",
+        "path": "营口,营口,辽宁,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "31"
+    },
+    {
+      "location": {
+        "id": "WM67M75V9WZY",
+        "name": "资阳",
+        "country": "CN",
+        "path": "资阳,资阳,四川,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "31"
+    },
+    {
+      "location": {
+        "id": "W7V53W659VPW",
+        "name": "防城港",
+        "country": "CN",
+        "path": "防城港,防城港,广西,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "32"
+    },
+    {
+      "location": {
+        "id": "Y8P7E0F5F2QK",
+        "name": "白城",
+        "country": "CN",
+        "path": "白城,白城,吉林,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "32"
+    },
+    {
+      "location": {
+        "id": "WZ8GZQHFH76E",
+        "name": "辽源",
+        "country": "CN",
+        "path": "辽源,辽源,吉林,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "32"
+    },
+    {
+      "location": {
+        "id": "WMMU75CW7CKH",
+        "name": "恩施",
+        "country": "CN",
+        "path": "恩施,恩施,湖北,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "32"
+    },
+    {
+      "location": {
+        "id": "WZS5FY540EQG",
+        "name": "延吉",
+        "country": "CN",
+        "path": "延吉,延边,吉林,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "32"
+    },
+    {
+      "location": {
+        "id": "WS7GQBRNR6V8",
+        "name": "厦门",
+        "country": "CN",
+        "path": "厦门,厦门,福建,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "33"
+    },
+    {
+      "location": {
+        "id": "WS1WFPCVR8WG",
+        "name": "河源",
+        "country": "CN",
+        "path": "河源,河源,广东,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "33"
+    },
+    {
+      "location": {
+        "id": "WM4WBR42NUWC",
+        "name": "自贡",
+        "country": "CN",
+        "path": "自贡,自贡,四川,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "33"
+    },
+    {
+      "location": {
+        "id": "WS10730EM8EV",
+        "name": "深圳",
+        "country": "CN",
+        "path": "深圳,深圳,广东,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "33"
+    },
+    {
+      "location": {
+        "id": "YBM322SX2QPB",
+        "name": "双鸭山",
+        "country": "CN",
+        "path": "双鸭山,双鸭山,黑龙江,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "33"
+    },
+    {
+      "location": {
+        "id": "WWT9WPCRMD0K",
+        "name": "莱西",
+        "country": "CN",
+        "path": "莱西,青岛,山东,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "33"
+    },
+    {
+      "location": {
+        "id": "WKSZ0YTRER5H",
+        "name": "凯里",
+        "country": "CN",
+        "path": "凯里,黔东南,贵州,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "33"
+    },
+    {
+      "location": {
+        "id": "WWWG9K41ENS5",
+        "name": "文登",
+        "country": "CN",
+        "path": "文登,威海,山东,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "33"
+    },
+    {
+      "location": {
+        "id": "W7Y3P046TR7U",
+        "name": "湛江",
+        "country": "CN",
+        "path": "湛江,湛江,广东,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "33"
+    },
+    {
+      "location": {
+        "id": "W7YGK0CKZKF9",
+        "name": "茂名",
+        "country": "CN",
+        "path": "茂名,茂名,广东,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "34"
+    },
+    {
+      "location": {
+        "id": "WM3FFWQTYQ52",
+        "name": "眉山",
+        "country": "CN",
+        "path": "眉山,眉山,四川,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "35"
+    },
+    {
+      "location": {
+        "id": "TV9JG0M1S9QU",
+        "name": "阿里",
+        "country": "CN",
+        "path": "阿里,阿里,西藏,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "35"
+    },
+    {
+      "location": {
+        "id": "WS6D4KH12059",
+        "name": "梅州",
+        "country": "CN",
+        "path": "梅州,梅州,广东,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "35"
+    },
+    {
+      "location": {
+        "id": "WJ1Q3KPFD1QS",
+        "name": "山南",
+        "country": "CN",
+        "path": "山南,山南,西藏,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "35"
+    },
+    {
+      "location": {
+        "id": "W7VHZEYSJ2W6",
+        "name": "钦州",
+        "country": "CN",
+        "path": "钦州,钦州,广西,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "35"
+    },
+    {
+      "location": {
+        "id": "WJ70G7N4S3H0",
+        "name": "林芝",
+        "country": "CN",
+        "path": "林芝,林芝,西藏,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "35"
+    },
+    {
+      "location": {
+        "id": "WWWM51WDH1FX",
+        "name": "烟台",
+        "country": "CN",
+        "path": "烟台,烟台,山东,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "35"
+    },
+    {
+      "location": {
+        "id": "WECNV8ZNE40W",
+        "name": "香港",
+        "country": "HK",
+        "path": "香港,香港,香港",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "36"
+    },
+    {
+      "location": {
+        "id": "WJT157H36HS5",
+        "name": "昌都",
+        "country": "CN",
+        "path": "昌都,昌都,西藏,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "36"
+    },
+    {
+      "location": {
+        "id": "WEBY8Q5HHUCU",
+        "name": "珠海",
+        "country": "CN",
+        "path": "珠海,珠海,广东,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "36"
+    },
+    {
+      "location": {
+        "id": "WM68Q2Z5FRTM",
+        "name": "内江",
+        "country": "CN",
+        "path": "内江,内江,四川,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "36"
+    },
+    {
+      "location": {
+        "id": "YB0B8REJKCCB",
+        "name": "松原",
+        "country": "CN",
+        "path": "松原,松原,吉林,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "36"
+    },
+    {
+      "location": {
+        "id": "WQG80DH3X35S",
+        "name": "吴忠",
+        "country": "CN",
+        "path": "吴忠,吴忠,宁夏,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "36"
+    },
+    {
+      "location": {
+        "id": "WTWJMR1QCXH8",
+        "name": "海门",
+        "country": "CN",
+        "path": "海门,南通,江苏,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "36"
+    },
+    {
+      "location": {
+        "id": "WWYMRT0VRMUG",
+        "name": "大连",
+        "country": "CN",
+        "path": "大连,大连,辽宁,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "36"
+    },
+    {
+      "location": {
+        "id": "WT8S7Y3W2KX4",
+        "name": "随州",
+        "country": "CN",
+        "path": "随州,随州,湖北,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "36"
+    },
+    {
+      "location": {
+        "id": "WSSP952Z8846",
+        "name": "南平",
+        "country": "CN",
+        "path": "南平,南平,福建,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "37"
+    },
+    {
+      "location": {
+        "id": "WMD7P0YN1CHN",
+        "name": "绵阳",
+        "country": "CN",
+        "path": "绵阳,绵阳,四川,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "37"
+    },
+    {
+      "location": {
+        "id": "YB2BVPSH4JM5",
+        "name": "大庆",
+        "country": "CN",
+        "path": "大庆,大庆,黑龙江,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "37"
+    },
+    {
+      "location": {
+        "id": "WT3PBQDH23US",
+        "name": "孝感",
+        "country": "CN",
+        "path": "孝感,孝感,湖北,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "37"
+    },
+    {
+      "location": {
+        "id": "WSS8S6CQZBPG",
+        "name": "莆田",
+        "country": "CN",
+        "path": "莆田,莆田,福建,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "37"
+    },
+    {
+      "location": {
+        "id": "WZCCRENBK8PQ",
+        "name": "吉林",
+        "country": "CN",
+        "path": "吉林,吉林,吉林,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "37"
+    },
+    {
+      "location": {
+        "id": "WS4YTUBPDZY9",
+        "name": "潮州",
+        "country": "CN",
+        "path": "潮州,潮州,广东,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "38"
+    },
+    {
+      "location": {
+        "id": "WKPDMK3Y8JWT",
+        "name": "云浮",
+        "country": "CN",
+        "path": "云浮,云浮,广东,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "38"
+    },
+    {
+      "location": {
+        "id": "WWW6J3P6W6B4",
+        "name": "乳山",
+        "country": "CN",
+        "path": "乳山,威海,山东,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "38"
+    },
+    {
+      "location": {
+        "id": "WWTZ5SZMQYVZ",
+        "name": "蓬莱",
+        "country": "CN",
+        "path": "蓬莱,烟台,山东,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "38"
+    },
+    {
+      "location": {
+        "id": "WMPFEYKZJDQM",
+        "name": "益阳",
+        "country": "CN",
+        "path": "益阳,益阳,湖南,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "39"
+    },
+    {
+      "location": {
+        "id": "WKZTU85FVNSV",
+        "name": "娄底",
+        "country": "CN",
+        "path": "娄底,娄底,湖南,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "39"
+    },
+    {
+      "location": {
+        "id": "WT0RN4EKXHCD",
+        "name": "岳阳",
+        "country": "CN",
+        "path": "岳阳,岳阳,湖南,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "39"
+    },
+    {
+      "location": {
+        "id": "WW8NMEQJCMJE",
+        "name": "晋中",
+        "country": "CN",
+        "path": "晋中,晋中,山西,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "39"
+    },
+    {
+      "location": {
+        "id": "WKBWQZEYXGPF",
+        "name": "凉山",
+        "country": "CN",
+        "path": "凉山,凉山,四川,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "39"
+    },
+    {
+      "location": {
+        "id": "WM34XCDQ1VND",
+        "name": "雅安",
+        "country": "CN",
+        "path": "雅安,雅安,四川,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "40"
+    },
+    {
+      "location": {
+        "id": "WWT31X8GJ8FW",
+        "name": "平度",
+        "country": "CN",
+        "path": "平度,青岛,山东,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "40"
+    },
+    {
+      "location": {
+        "id": "WQN0TV21C6RY",
+        "name": "商洛",
+        "country": "CN",
+        "path": "商洛,商洛,陕西,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "40"
+    },
+    {
+      "location": {
+        "id": "WWMQ76G0JDNC",
+        "name": "胶州",
+        "country": "CN",
+        "path": "胶州,青岛,山东,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "40"
+    },
+    {
+      "location": {
+        "id": "WWMKWU0KKVZP",
+        "name": "黄岛",
+        "country": "CN",
+        "path": "黄岛,青岛,山东,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "41"
+    },
+    {
+      "location": {
+        "id": "WKEM6FWMMFWJ",
+        "name": "安顺",
+        "country": "CN",
+        "path": "安顺,安顺,贵州,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "41"
+    },
+    {
+      "location": {
+        "id": "WM7B0X53DZW2",
+        "name": "重庆",
+        "country": "CN",
+        "path": "重庆,重庆,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "41"
+    },
+    {
+      "location": {
+        "id": "WQGHUSF91KWU",
+        "name": "阿左旗",
+        "country": "CN",
+        "path": "阿左旗,阿拉善盟,内蒙古,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "41"
+    },
+    {
+      "location": {
+        "id": "WXNC2HTENP33",
+        "name": "瓦房店",
+        "country": "CN",
+        "path": "瓦房店,大连,辽宁,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "41"
+    },
+    {
+      "location": {
+        "id": "W7VD5N6F061Q",
+        "name": "北海",
+        "country": "CN",
+        "path": "北海,北海,广西,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "42"
+    },
+    {
+      "location": {
+        "id": "WMNT9YCY99D6",
+        "name": "张家界",
+        "country": "CN",
+        "path": "张家界,张家界,湖南,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "42"
+    },
+    {
+      "location": {
+        "id": "WWMWUYV0B7T9",
+        "name": "即墨",
+        "country": "CN",
+        "path": "即墨,青岛,山东,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "42"
+    },
+    {
+      "location": {
+        "id": "WTTVYTY1H0HF",
+        "name": "南通",
+        "country": "CN",
+        "path": "南通,南通,江苏,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "42"
+    },
+    {
+      "location": {
+        "id": "YBKDQEKD30TF",
+        "name": "佳木斯",
+        "country": "CN",
+        "path": "佳木斯,佳木斯,黑龙江,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "42"
+    },
+    {
+      "location": {
+        "id": "WKJ1F428HH2F",
+        "name": "南宁",
+        "country": "CN",
+        "path": "南宁,南宁,广西,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "42"
+    },
+    {
+      "location": {
+        "id": "WMRNSHZ87YY1",
+        "name": "宜昌",
+        "country": "CN",
+        "path": "宜昌,宜昌,湖北,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "42"
+    },
+    {
+      "location": {
+        "id": "WXQCCV8TM5T4",
+        "name": "盘锦",
+        "country": "CN",
+        "path": "盘锦,盘锦,辽宁,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "43"
+    },
+    {
+      "location": {
+        "id": "WTW3SJ5ZBJUY",
+        "name": "上海",
+        "country": "CN",
+        "path": "上海,上海,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "43"
+    },
+    {
+      "location": {
+        "id": "WWMT5Q64CR3G",
+        "name": "青岛",
+        "country": "CN",
+        "path": "青岛,青岛,山东,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "43"
+    },
+    {
+      "location": {
+        "id": "TXN1VQC3C8ST",
+        "name": "阿图什",
+        "country": "CN",
+        "path": "阿图什,克州,新疆,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "43"
+    },
+    {
+      "location": {
+        "id": "WWHUBFTRE77P",
+        "name": "连云港",
+        "country": "CN",
+        "path": "连云港,连云港,江苏,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "43"
+    },
+    {
+      "location": {
+        "id": "WS7EMPWP7EQ3",
+        "name": "漳州",
+        "country": "CN",
+        "path": "漳州,漳州,福建,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "43"
+    },
+    {
+      "location": {
+        "id": "WS2V1N2FZZ77",
+        "name": "韶关",
+        "country": "CN",
+        "path": "韶关,韶关,广东,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "43"
+    },
+    {
+      "location": {
+        "id": "WEBTFUSKS7HB",
+        "name": "澳门",
+        "country": "MO",
+        "path": "澳门,澳门,澳门",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "44"
+    },
+    {
+      "location": {
+        "id": "TZFR7TC93WEK",
+        "name": "博乐",
+        "country": "CN",
+        "path": "博乐,博尔塔拉,新疆,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "44"
+    },
+    {
+      "location": {
+        "id": "WS4UZ4EZ953Z",
+        "name": "汕头",
+        "country": "CN",
+        "path": "汕头,汕头,广东,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "44"
+    },
+    {
+      "location": {
+        "id": "WX4BZD6KEJFY",
+        "name": "廊坊",
+        "country": "CN",
+        "path": "廊坊,廊坊,河北,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "44"
+    },
+    {
+      "location": {
+        "id": "WKSMQWM9VDFV",
+        "name": "都匀",
+        "country": "CN",
+        "path": "都匀,黔南,贵州,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "44"
+    },
+    {
+      "location": {
+        "id": "WR5CWTXYQRVP",
+        "name": "乌海",
+        "country": "CN",
+        "path": "乌海,乌海,内蒙古,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "44"
+    },
+    {
+      "location": {
+        "id": "WTVMWP4TCFT7",
+        "name": "盐城",
+        "country": "CN",
+        "path": "盐城,盐城,江苏,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "44"
+    },
+    {
+      "location": {
+        "id": "WS08H58U92R8",
+        "name": "中山",
+        "country": "CN",
+        "path": "中山,中山,广东,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "45"
+    },
+    {
+      "location": {
+        "id": "WKKUE0QPVT8X",
+        "name": "河池",
+        "country": "CN",
+        "path": "河池,河池,广西,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "46"
+    },
+    {
+      "location": {
+        "id": "WWKCX8PB3YE6",
+        "name": "日照",
+        "country": "CN",
+        "path": "日照,日照,山东,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "46"
+    },
+    {
+      "location": {
+        "id": "WRN16S9GJRQ1",
+        "name": "鄂尔多斯",
+        "country": "CN",
+        "path": "鄂尔多斯,鄂尔多斯,内蒙古,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "46"
+    },
+    {
+      "location": {
+        "id": "WZ809BF6B5HR",
+        "name": "铁岭",
+        "country": "CN",
+        "path": "铁岭,铁岭,辽宁,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "46"
+    },
+    {
+      "location": {
+        "id": "WS17E8Y5G0RU",
+        "name": "惠州",
+        "country": "CN",
+        "path": "惠州,惠州,广东,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "46"
+    },
+    {
+      "location": {
+        "id": "WSSU6EXX52RE",
+        "name": "福州",
+        "country": "CN",
+        "path": "福州,福州,福建,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "46"
+    },
+    {
+      "location": {
+        "id": "WTJ3BG5J683H",
+        "name": "丽水",
+        "country": "CN",
+        "path": "丽水,丽水,浙江,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "47"
+    },
+    {
+      "location": {
+        "id": "WS4196CZ5GG1",
+        "name": "汕尾",
+        "country": "CN",
+        "path": "汕尾,汕尾,广东,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "47"
+    },
+    {
+      "location": {
+        "id": "WQTB5QBFKYSB",
+        "name": "延安",
+        "country": "CN",
+        "path": "延安,延安,陕西,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "47"
+    },
+    {
+      "location": {
+        "id": "WS0GHKN5ZP7T",
+        "name": "东莞",
+        "country": "CN",
+        "path": "东莞,东莞,广东,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "47"
+    },
+    {
+      "location": {
+        "id": "WTM3PFKGD19C",
+        "name": "诸暨",
+        "country": "CN",
+        "path": "诸暨,绍兴,浙江,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "47"
+    },
+    {
+      "location": {
+        "id": "WK4HUQ2S15F0",
+        "name": "文山",
+        "country": "CN",
+        "path": "文山,文山,云南,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "48"
+    },
+    {
+      "location": {
+        "id": "WS0E9D8WN298",
+        "name": "广州",
+        "country": "CN",
+        "path": "广州,广州,广东,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "48"
+    },
+    {
+      "location": {
+        "id": "WJX5GH5PYG5R",
+        "name": "甘孜",
+        "country": "CN",
+        "path": "甘孜,甘孜,四川,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "48"
+    },
+    {
+      "location": {
+        "id": "WX23MTKCJ427",
+        "name": "集宁",
+        "country": "CN",
+        "path": "集宁,乌兰察布,内蒙古,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "48"
+    },
+    {
+      "location": {
+        "id": "WZ3YSC05ZW82",
+        "name": "白山",
+        "country": "CN",
+        "path": "白山,白山,吉林,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "48"
+    },
+    {
+      "location": {
+        "id": "WT9NG9P4ZDHG",
+        "name": "信阳",
+        "country": "CN",
+        "path": "信阳,信阳,河南,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "48"
+    },
+    {
+      "location": {
+        "id": "TZMM87UXBKRG",
+        "name": "库尔勒",
+        "country": "CN",
+        "path": "库尔勒,巴音郭楞,新疆,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "49"
+    },
+    {
+      "location": {
+        "id": "WWH1780CEFBR",
+        "name": "宿迁",
+        "country": "CN",
+        "path": "宿迁,宿迁,江苏,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "49"
+    },
+    {
+      "location": {
+        "id": "WX0S40QDCME0",
+        "name": "大同",
+        "country": "CN",
+        "path": "大同,大同,山西,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "50"
+    },
+    {
+      "location": {
+        "id": "WK2FT8F9H0YR",
+        "name": "玉溪",
+        "country": "CN",
+        "path": "玉溪,玉溪,云南,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "50"
+    },
+    {
+      "location": {
+        "id": "WTW4GTQ3D8BV",
+        "name": "太仓",
+        "country": "CN",
+        "path": "太仓,苏州,江苏,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "50"
+    },
+    {
+      "location": {
+        "id": "WJUGXXRYCVG7",
+        "name": "玉树",
+        "country": "CN",
+        "path": "玉树,玉树,青海,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "50"
+    },
+    {
+      "location": {
+        "id": "WTTU59XQWGTU",
+        "name": "常熟",
+        "country": "CN",
+        "path": "常熟,苏州,江苏,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "50"
+    },
+    {
+      "location": {
+        "id": "WZC1EXZ0P9HU",
+        "name": "长春",
+        "country": "CN",
+        "path": "长春,长春,吉林,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "50"
+    },
+    {
+      "location": {
+        "id": "WQGTUXRECXJN",
+        "name": "石嘴山",
+        "country": "CN",
+        "path": "石嘴山,石嘴山,宁夏,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "50"
+    },
+    {
+      "location": {
+        "id": "WKPJS42KFVJX",
+        "name": "梧州",
+        "country": "CN",
+        "path": "梧州,梧州,广西,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "51"
+    },
+    {
+      "location": {
+        "id": "WQ7SF3WEPQRU",
+        "name": "固原",
+        "country": "CN",
+        "path": "固原,固原,宁夏,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "51"
+    },
+    {
+      "location": {
+        "id": "WW7WJ9SSV9R7",
+        "name": "莱芜",
+        "country": "CN",
+        "path": "莱芜,莱芜,山东,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "51"
+    },
+    {
+      "location": {
+        "id": "WTM6CW2VVW48",
+        "name": "富阳",
+        "country": "CN",
+        "path": "富阳,杭州,浙江,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "51"
+    },
+    {
+      "location": {
+        "id": "TZ344WFBDS60",
+        "name": "阿克苏",
+        "country": "CN",
+        "path": "阿克苏,阿克苏,新疆,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "51"
+    },
+    {
+      "location": {
+        "id": "WWHPMHEV4CS4",
+        "name": "临沂",
+        "country": "CN",
+        "path": "临沂,临沂,山东,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "51"
+    },
+    {
+      "location": {
+        "id": "W5ZTMB87F1X8",
+        "name": "景洪",
+        "country": "CN",
+        "path": "景洪,西双版纳,云南,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "51"
+    },
+    {
+      "location": {
+        "id": "WTMDXTK6STK4",
+        "name": "绍兴",
+        "country": "CN",
+        "path": "绍兴,绍兴,浙江,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "51"
+    },
+    {
+      "location": {
+        "id": "WKN2DZXM71F0",
+        "name": "玉林",
+        "country": "CN",
+        "path": "玉林,玉林,广西,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "51"
+    },
+    {
+      "location": {
+        "id": "WQGDF7NXZRZB",
+        "name": "银川",
+        "country": "CN",
+        "path": "银川,银川,宁夏,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "52"
+    },
+    {
+      "location": {
+        "id": "WTT4QE46BRED",
+        "name": "宜兴",
+        "country": "CN",
+        "path": "宜兴,无锡,江苏,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "52"
+    },
+    {
+      "location": {
+        "id": "WQY1BBWVNM4Q",
+        "name": "榆林",
+        "country": "CN",
+        "path": "榆林,榆林,陕西,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "52"
+    },
+    {
+      "location": {
+        "id": "WTQFSTR6DMK4",
+        "name": "舟山",
+        "country": "CN",
+        "path": "舟山,舟山,浙江,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "52"
+    },
+    {
+      "location": {
+        "id": "WMRU9C7MH9C3",
+        "name": "荆州",
+        "country": "CN",
+        "path": "荆州,荆州,湖北,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "52"
+    },
+    {
+      "location": {
+        "id": "WXJZTSCEPN4J",
+        "name": "葫芦岛",
+        "country": "CN",
+        "path": "葫芦岛,葫芦岛,辽宁,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "52"
+    },
+    {
+      "location": {
+        "id": "WTQ3VZQP879N",
+        "name": "宁波",
+        "country": "CN",
+        "path": "宁波,宁波,浙江,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "52"
+    },
+    {
+      "location": {
+        "id": "WTJQSMBKCGCH",
+        "name": "义乌",
+        "country": "CN",
+        "path": "义乌,金华,浙江,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "52"
+    },
+    {
+      "location": {
+        "id": "WTJJ6TY7R0FK",
+        "name": "金华",
+        "country": "CN",
+        "path": "金华,金华,浙江,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "52"
+    },
+    {
+      "location": {
+        "id": "WWG1FS318M6P",
+        "name": "沧州",
+        "country": "CN",
+        "path": "沧州,沧州,河北,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "52"
+    },
+    {
+      "location": {
+        "id": "WKPGPK45UZQM",
+        "name": "肇庆",
+        "country": "CN",
+        "path": "肇庆,肇庆,广东,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "52"
+    },
+    {
+      "location": {
+        "id": "WW02P7XHT0KB",
+        "name": "平顶山",
+        "country": "CN",
+        "path": "平顶山,平顶山,河南,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "52"
+    },
+    {
+      "location": {
+        "id": "WMN10GQZYQDK",
+        "name": "吉首",
+        "country": "CN",
+        "path": "吉首,湘西,湖南,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "52"
+    },
+    {
+      "location": {
+        "id": "WT029G15ETRJ",
+        "name": "长沙",
+        "country": "CN",
+        "path": "长沙,长沙,湖南,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "52"
+    },
+    {
+      "location": {
+        "id": "WMD1P5P1QK95",
+        "name": "德阳",
+        "country": "CN",
+        "path": "德阳,德阳,四川,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "52"
+    },
+    {
+      "location": {
+        "id": "WTMRU3PTDC3X",
+        "name": "湖州",
+        "country": "CN",
+        "path": "湖州,湖州,浙江,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "52"
+    },
+    {
+      "location": {
+        "id": "WZ8MTDUGMP22",
+        "name": "四平",
+        "country": "CN",
+        "path": "四平,四平,吉林,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "52"
+    },
+    {
+      "location": {
+        "id": "WRR2Q2Z7CXWM",
+        "name": "呼和浩特",
+        "country": "CN",
+        "path": "呼和浩特,呼和浩特,内蒙古,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "52"
+    },
+    {
+      "location": {
+        "id": "WKR6FMS0Z3UW",
+        "name": "贺州",
+        "country": "CN",
+        "path": "贺州,贺州,广西,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "53"
+    },
+    {
+      "location": {
+        "id": "WS06YNEMPP18",
+        "name": "佛山",
+        "country": "CN",
+        "path": "佛山,佛山,广东,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "53"
+    },
+    {
+      "location": {
+        "id": "WS4VBP4H9W1J",
+        "name": "揭阳",
+        "country": "CN",
+        "path": "揭阳,揭阳,广东,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "53"
+    },
+    {
+      "location": {
+        "id": "WWT7906M5W3D",
+        "name": "莱州",
+        "country": "CN",
+        "path": "莱州,烟台,山东,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "53"
+    },
+    {
+      "location": {
+        "id": "WSSZXXPU1B76",
+        "name": "宁德",
+        "country": "CN",
+        "path": "宁德,宁德,福建,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "53"
+    },
+    {
+      "location": {
+        "id": "WW6CSB4BQYSD",
+        "name": "济宁",
+        "country": "CN",
+        "path": "济宁,济宁,山东,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "53"
+    },
+    {
+      "location": {
+        "id": "WQBEJ0TNY84M",
+        "name": "金昌",
+        "country": "CN",
+        "path": "金昌,金昌,甘肃,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "53"
+    },
+    {
+      "location": {
+        "id": "WX7C5D6581T3",
+        "name": "承德",
+        "country": "CN",
+        "path": "承德,承德,河北,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "53"
+    },
+    {
+      "location": {
+        "id": "W7UR7MB3QQDU",
+        "name": "崇左",
+        "country": "CN",
+        "path": "崇左,崇左,广西,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "53"
+    },
+    {
+      "location": {
+        "id": "WQ7F5V8HRBZU",
+        "name": "平凉",
+        "country": "CN",
+        "path": "平凉,平凉,甘肃,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "53"
+    },
+    {
+      "location": {
+        "id": "WW8Z267HHZ3U",
+        "name": "阳泉",
+        "country": "CN",
+        "path": "阳泉,阳泉,山西,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "54"
+    },
+    {
+      "location": {
+        "id": "WKMF3VJHWB9X",
+        "name": "柳州",
+        "country": "CN",
+        "path": "柳州,柳州,广西,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "54"
+    },
+    {
+      "location": {
+        "id": "VBW8JQY63YDB",
+        "name": "阿勒泰",
+        "country": "CN",
+        "path": "阿勒泰,阿勒泰,新疆,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "54"
+    },
+    {
+      "location": {
+        "id": "WTEMH46Z5N09",
+        "name": "合肥",
+        "country": "CN",
+        "path": "合肥,合肥,安徽,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "54"
+    },
+    {
+      "location": {
+        "id": "WWFJ5S4DNJ0T",
+        "name": "保定",
+        "country": "CN",
+        "path": "保定,保定,河北,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "54"
+    },
+    {
+      "location": {
+        "id": "WTTDPCGXTWUS",
+        "name": "苏州",
+        "country": "CN",
+        "path": "苏州,苏州,江苏,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "54"
+    },
+    {
+      "location": {
+        "id": "WWTSEG0852FV",
+        "name": "招远",
+        "country": "CN",
+        "path": "招远,烟台,山东,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "54"
+    },
+    {
+      "location": {
+        "id": "WWS3VCB99D29",
+        "name": "寿光",
+        "country": "CN",
+        "path": "寿光,潍坊,山东,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "55"
+    },
+    {
+      "location": {
+        "id": "WSVZ695PCF71",
+        "name": "温州",
+        "country": "CN",
+        "path": "温州,温州,浙江,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "55"
+    },
+    {
+      "location": {
+        "id": "WTS4JZ3WMZMC",
+        "name": "芜湖",
+        "country": "CN",
+        "path": "芜湖,芜湖,安徽,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "55"
+    },
+    {
+      "location": {
+        "id": "WW7MBNP039PE",
+        "name": "泰安",
+        "country": "CN",
+        "path": "泰安,泰安,山东,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "55"
+    },
+    {
+      "location": {
+        "id": "WZ2NM0P2XMU7",
+        "name": "抚顺",
+        "country": "CN",
+        "path": "抚顺,抚顺,辽宁,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "55"
+    },
+    {
+      "location": {
+        "id": "WTUXK27DXN0R",
+        "name": "淮安",
+        "country": "CN",
+        "path": "淮安,淮安,江苏,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "55"
+    },
+    {
+      "location": {
+        "id": "WXR3Y6P2CEQ3",
+        "name": "鞍山",
+        "country": "CN",
+        "path": "鞍山,鞍山,辽宁,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "55"
+    },
+    {
+      "location": {
+        "id": "WTK1H2DTJ1U4",
+        "name": "黄山",
+        "country": "CN",
+        "path": "黄山,黄山,安徽,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "55"
+    },
+    {
+      "location": {
+        "id": "WWS8Z342UPZ7",
+        "name": "潍坊",
+        "country": "CN",
+        "path": "潍坊,潍坊,山东,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "55"
+    },
+    {
+      "location": {
+        "id": "W7ZSKJM3GP7Z",
+        "name": "阳江",
+        "country": "CN",
+        "path": "阳江,阳江,广东,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "56"
+    },
+    {
+      "location": {
+        "id": "WTTT2Z1YYP5B",
+        "name": "江阴",
+        "country": "CN",
+        "path": "江阴,无锡,江苏,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "56"
+    },
+    {
+      "location": {
+        "id": "WTV28G74FW3J",
+        "name": "泰州",
+        "country": "CN",
+        "path": "泰州,泰州,江苏,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "56"
+    },
+    {
+      "location": {
+        "id": "WJ2B9TWGFBT5",
+        "name": "拉萨",
+        "country": "CN",
+        "path": "拉萨,拉萨,西藏,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "56"
+    },
+    {
+      "location": {
+        "id": "WXMSKZT4B3TT",
+        "name": "朝阳",
+        "country": "CN",
+        "path": "朝阳,朝阳,辽宁,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "56"
+    },
+    {
+      "location": {
+        "id": "WHPG4ZZB3XSN",
+        "name": "普洱",
+        "country": "CN",
+        "path": "普洱,普洱,云南,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "56"
+    },
+    {
+      "location": {
+        "id": "WTMYGTZ7WZMY",
+        "name": "嘉兴",
+        "country": "CN",
+        "path": "嘉兴,嘉兴,浙江,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "56"
+    },
+    {
+      "location": {
+        "id": "WWSKUMUVE3TR",
+        "name": "东营",
+        "country": "CN",
+        "path": "东营,东营,山东,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "56"
+    },
+    {
+      "location": {
+        "id": "YBKTK25TPP2R",
+        "name": "鹤岗",
+        "country": "CN",
+        "path": "鹤岗,鹤岗,黑龙江,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "56"
+    },
+    {
+      "location": {
+        "id": "WK6WEJ9VE4V7",
+        "name": "兴义",
+        "country": "CN",
+        "path": "兴义,黔西南,贵州,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "56"
+    },
+    {
+      "location": {
+        "id": "WS02MNW64CP6",
+        "name": "江门",
+        "country": "CN",
+        "path": "江门,江门,广东,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "56"
+    },
+    {
+      "location": {
+        "id": "WTW48BWCWRFR",
+        "name": "昆山",
+        "country": "CN",
+        "path": "昆山,苏州,江苏,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "57"
+    },
+    {
+      "location": {
+        "id": "WTHS8FW3RYBK",
+        "name": "衢州",
+        "country": "CN",
+        "path": "衢州,衢州,浙江,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "57"
+    },
+    {
+      "location": {
+        "id": "WWEUSKZ4K1P9",
+        "name": "滨州",
+        "country": "CN",
+        "path": "滨州,滨州,山东,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "57"
+    },
+    {
+      "location": {
+        "id": "WTTTR1VB4WE5",
+        "name": "张家港",
+        "country": "CN",
+        "path": "张家港,苏州,江苏,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "57"
+    },
+    {
+      "location": {
+        "id": "WK2NQUD6QD0J",
+        "name": "楚雄",
+        "country": "CN",
+        "path": "楚雄,楚雄,云南,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "57"
+    },
+    {
+      "location": {
+        "id": "WX38NPJ1DP88",
+        "name": "张家口",
+        "country": "CN",
+        "path": "张家口,张家口,河北,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "57"
+    },
+    {
+      "location": {
+        "id": "WTDUEP89WV0P",
+        "name": "六安",
+        "country": "CN",
+        "path": "六安,六安,安徽,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "57"
+    },
+    {
+      "location": {
+        "id": "WTB58RQWFJC5",
+        "name": "南阳",
+        "country": "CN",
+        "path": "南阳,南阳,河南,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "57"
+    },
+    {
+      "location": {
+        "id": "WKCG2PQ8G1M2",
+        "name": "昭通",
+        "country": "CN",
+        "path": "昭通,昭通,云南,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "57"
+    },
+    {
+      "location": {
+        "id": "WTC5DEFF6TD5",
+        "name": "驻马店",
+        "country": "CN",
+        "path": "驻马店,驻马店,河南,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "58"
+    },
+    {
+      "location": {
+        "id": "VBH77M0RQ24G",
+        "name": "克拉玛依",
+        "country": "CN",
+        "path": "克拉玛依,克拉玛依,新疆,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "58"
+    },
+    {
+      "location": {
+        "id": "WKEZD7MXE04F",
+        "name": "贵阳",
+        "country": "CN",
+        "path": "贵阳,贵阳,贵州,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "58"
+    },
+    {
+      "location": {
+        "id": "WTTC34246TPK",
+        "name": "吴江",
+        "country": "CN",
+        "path": "吴江,苏州,江苏,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "58"
+    },
+    {
+      "location": {
+        "id": "WXRVB9QYXKY8",
+        "name": "沈阳",
+        "country": "CN",
+        "path": "沈阳,沈阳,辽宁,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "58"
+    },
+    {
+      "location": {
+        "id": "WTN74CS48NB0",
+        "name": "台州",
+        "country": "CN",
+        "path": "台州,台州,浙江,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "59"
+    },
+    {
+      "location": {
+        "id": "WK8R4WWPXZ1K",
+        "name": "攀枝花",
+        "country": "CN",
+        "path": "攀枝花,攀枝花,四川,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "59"
+    },
+    {
+      "location": {
+        "id": "WTTKC92GVT6S",
+        "name": "常州",
+        "country": "CN",
+        "path": "常州,常州,江苏,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "59"
+    },
+    {
+      "location": {
+        "id": "WT5QD22W4GKR",
+        "name": "景德镇",
+        "country": "CN",
+        "path": "景德镇,景德镇,江西,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "59"
+    },
+    {
+      "location": {
+        "id": "WMV9BV1YY1EC",
+        "name": "安康",
+        "country": "CN",
+        "path": "安康,安康,陕西,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "59"
+    },
+    {
+      "location": {
+        "id": "WTSK2DC1FHK3",
+        "name": "马鞍山",
+        "country": "CN",
+        "path": "马鞍山,马鞍山,安徽,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "59"
+    },
+    {
+      "location": {
+        "id": "WT7JXTC4NSMZ",
+        "name": "安庆",
+        "country": "CN",
+        "path": "安庆,安庆,安徽,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "59"
+    },
+    {
+      "location": {
+        "id": "WKUJ8GKSN3ZC",
+        "name": "遵义",
+        "country": "CN",
+        "path": "遵义,遵义,贵州,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "59"
+    },
+    {
+      "location": {
+        "id": "TZY7200FWT0M",
+        "name": "五家渠",
+        "country": "CN",
+        "path": "五家渠,五家渠,新疆,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "59"
+    },
+    {
+      "location": {
+        "id": "WW45ZXMVB36N",
+        "name": "商丘",
+        "country": "CN",
+        "path": "商丘,商丘,河南,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "59"
+    },
+    {
+      "location": {
+        "id": "WTTE97PU94T9",
+        "name": "无锡",
+        "country": "CN",
+        "path": "无锡,无锡,江苏,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "60"
+    },
+    {
+      "location": {
+        "id": "WW607X60CDS4",
+        "name": "菏泽",
+        "country": "CN",
+        "path": "菏泽,菏泽,山东,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "60"
+    },
+    {
+      "location": {
+        "id": "WW8P3NH2TPDT",
+        "name": "太原",
+        "country": "CN",
+        "path": "太原,太原,山西,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "60"
+    },
+    {
+      "location": {
+        "id": "WTF75T383SE2",
+        "name": "阜阳",
+        "country": "CN",
+        "path": "阜阳,阜阳,安徽,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "60"
+    },
+    {
+      "location": {
+        "id": "WMXY3PVX93RV",
+        "name": "襄阳",
+        "country": "CN",
+        "path": "襄阳,襄阳,湖北,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "60"
+    },
+    {
+      "location": {
+        "id": "WTGPMFNHZW6H",
+        "name": "宿州",
+        "country": "CN",
+        "path": "宿州,宿州,安徽,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "60"
+    },
+    {
+      "location": {
+        "id": "WXYBNKF2CT25",
+        "name": "通辽",
+        "country": "CN",
+        "path": "通辽,通辽,内蒙古,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "60"
+    },
+    {
+      "location": {
+        "id": "WKJWVXFV72X7",
+        "name": "来宾",
+        "country": "CN",
+        "path": "来宾,来宾,广西,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "60"
+    },
+    {
+      "location": {
+        "id": "WT33C6J2C563",
+        "name": "咸宁",
+        "country": "CN",
+        "path": "咸宁,咸宁,湖北,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "60"
+    },
+    {
+      "location": {
+        "id": "WT7ZCN9UKCZS",
+        "name": "铜陵",
+        "country": "CN",
+        "path": "铜陵,铜陵,安徽,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "60"
+    },
+    {
+      "location": {
+        "id": "WXQ1U6H0VE63",
+        "name": "锦州",
+        "country": "CN",
+        "path": "锦州,锦州,辽宁,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "60"
+    },
+    {
+      "location": {
+        "id": "WTSQQYHVQ973",
+        "name": "南京",
+        "country": "CN",
+        "path": "南京,南京,江苏,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "61"
+    },
+    {
+      "location": {
+        "id": "WK3N92NQV6RQ",
+        "name": "昆明",
+        "country": "CN",
+        "path": "昆明,昆明,云南,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "61"
+    },
+    {
+      "location": {
+        "id": "TZCCF7RKT36V",
+        "name": "伊宁",
+        "country": "CN",
+        "path": "伊宁,伊犁,新疆,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "61"
+    },
+    {
+      "location": {
+        "id": "WTG7R0CSBHZ9",
+        "name": "蚌埠",
+        "country": "CN",
+        "path": "蚌埠,蚌埠,安徽,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "61"
+    },
+    {
+      "location": {
+        "id": "WT47HJP3HEMP",
+        "name": "南昌",
+        "country": "CN",
+        "path": "南昌,南昌,江西,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "61"
+    },
+    {
+      "location": {
+        "id": "WTM5UR1QW0QN",
+        "name": "临安",
+        "country": "CN",
+        "path": "临安,杭州,浙江,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "62"
+    },
+    {
+      "location": {
+        "id": "WWDTN3X443VR",
+        "name": "德州",
+        "country": "CN",
+        "path": "德州,德州,山东,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "62"
+    },
+    {
+      "location": {
+        "id": "WTTH8GUJNUYP",
+        "name": "金坛",
+        "country": "CN",
+        "path": "金坛,常州,江苏,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "62"
+    },
+    {
+      "location": {
+        "id": "WMYC8VK3H18J",
+        "name": "十堰",
+        "country": "CN",
+        "path": "十堰,十堰,湖北,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "62"
+    },
+    {
+      "location": {
+        "id": "WWDQ8KE95MGB",
+        "name": "衡水",
+        "country": "CN",
+        "path": "衡水,衡水,河北,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "62"
+    },
+    {
+      "location": {
+        "id": "WT3GC9DRC209",
+        "name": "黄石",
+        "country": "CN",
+        "path": "黄石,黄石,湖北,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "62"
+    },
+    {
+      "location": {
+        "id": "WMUH5K1WDWZC",
+        "name": "汉中",
+        "country": "CN",
+        "path": "汉中,汉中,陕西,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "62"
+    },
+    {
+      "location": {
+        "id": "TXN08CQCQM63",
+        "name": "喀什",
+        "country": "CN",
+        "path": "喀什,喀什,新疆,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "63"
+    },
+    {
+      "location": {
+        "id": "WK5ZFNY7D4FJ",
+        "name": "百色",
+        "country": "CN",
+        "path": "百色,百色,广西,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "63"
+    },
+    {
+      "location": {
+        "id": "WX4FBXXFKE4F",
+        "name": "北京",
+        "country": "CN",
+        "path": "北京,北京,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "63"
+    },
+    {
+      "location": {
+        "id": "WWC2MYYCM6J5",
+        "name": "石家庄",
+        "country": "CN",
+        "path": "石家庄,石家庄,河北,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "63"
+    },
+    {
+      "location": {
+        "id": "WK9C440U729C",
+        "name": "曲靖",
+        "country": "CN",
+        "path": "曲靖,曲靖,云南,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "63"
+    },
+    {
+      "location": {
+        "id": "WW0CWDZP17BC",
+        "name": "许昌",
+        "country": "CN",
+        "path": "许昌,许昌,河南,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "63"
+    },
+    {
+      "location": {
+        "id": "WTMKQ069CCJ7",
+        "name": "杭州",
+        "country": "CN",
+        "path": "杭州,杭州,浙江,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "63"
+    },
+    {
+      "location": {
+        "id": "WW42DDHQT937",
+        "name": "亳州",
+        "country": "CN",
+        "path": "亳州,亳州,安徽,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "63"
+    },
+    {
+      "location": {
+        "id": "WW2835D5K7BE",
+        "name": "焦作",
+        "country": "CN",
+        "path": "焦作,焦作,河南,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "63"
+    },
+    {
+      "location": {
+        "id": "WW96VH3U3KG5",
+        "name": "邢台",
+        "country": "CN",
+        "path": "邢台,邢台,河北,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "63"
+    },
+    {
+      "location": {
+        "id": "WXQX09T2HRXX",
+        "name": "阜新",
+        "country": "CN",
+        "path": "阜新,阜新,辽宁,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "64"
+    },
+    {
+      "location": {
+        "id": "WTCP494CDTDN",
+        "name": "漯河",
+        "country": "CN",
+        "path": "漯河,漯河,河南,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "64"
+    },
+    {
+      "location": {
+        "id": "WW511U7JJ68Q",
+        "name": "淮北",
+        "country": "CN",
+        "path": "淮北,淮北,安徽,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "64"
+    },
+    {
+      "location": {
+        "id": "WW1MBZNSXN1M",
+        "name": "开封",
+        "country": "CN",
+        "path": "开封,开封,河南,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "64"
+    },
+    {
+      "location": {
+        "id": "WXRDFBCXJJ8E",
+        "name": "辽阳",
+        "country": "CN",
+        "path": "辽阳,辽阳,辽宁,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "64"
+    },
+    {
+      "location": {
+        "id": "WMG22PXN3WPT",
+        "name": "广元",
+        "country": "CN",
+        "path": "广元,广元,四川,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "64"
+    },
+    {
+      "location": {
+        "id": "WT5CU7PJK0RS",
+        "name": "上饶",
+        "country": "CN",
+        "path": "上饶,上饶,江西,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "65"
+    },
+    {
+      "location": {
+        "id": "WTCX2BMDDWHP",
+        "name": "周口",
+        "country": "CN",
+        "path": "周口,周口,河南,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "65"
+    },
+    {
+      "location": {
+        "id": "WTG1WKHG98G5",
+        "name": "淮南",
+        "country": "CN",
+        "path": "淮南,淮南,安徽,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "65"
+    },
+    {
+      "location": {
+        "id": "WKJGQJ0R3057",
+        "name": "贵港",
+        "country": "CN",
+        "path": "贵港,贵港,广西,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "65"
+    },
+    {
+      "location": {
+        "id": "TZXKM4G9GS71",
+        "name": "吐鲁番",
+        "country": "CN",
+        "path": "吐鲁番,吐鲁番,新疆,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "66"
+    },
+    {
+      "location": {
+        "id": "WS9DZQ1QXHGR",
+        "name": "赣州",
+        "country": "CN",
+        "path": "赣州,赣州,江西,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "66"
+    },
+    {
+      "location": {
+        "id": "WK1KZS3MC5U1",
+        "name": "红河",
+        "country": "CN",
+        "path": "红河,红河,云南,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "66"
+    },
+    {
+      "location": {
+        "id": "WSBQ3F31E8P0",
+        "name": "湘潭",
+        "country": "CN",
+        "path": "湘潭,湘潭,湖南,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "66"
+    },
+    {
+      "location": {
+        "id": "WW5QJDVC4NKQ",
+        "name": "枣庄",
+        "country": "CN",
+        "path": "枣庄,枣庄,山东,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "66"
+    },
+    {
+      "location": {
+        "id": "WW92M43YCQG0",
+        "name": "邯郸",
+        "country": "CN",
+        "path": "邯郸,邯郸,河北,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "67"
+    },
+    {
+      "location": {
+        "id": "WWECQQCKH37Z",
+        "name": "淄博",
+        "country": "CN",
+        "path": "淄博,淄博,山东,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "67"
+    },
+    {
+      "location": {
+        "id": "WS0QU43YTBHW",
+        "name": "清远",
+        "country": "CN",
+        "path": "清远,清远,广东,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "67"
+    },
+    {
+      "location": {
+        "id": "WT3TJZMB152J",
+        "name": "黄冈",
+        "country": "CN",
+        "path": "黄冈,黄冈,湖北,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "67"
+    },
+    {
+      "location": {
+        "id": "WTUBM40RTTUB",
+        "name": "扬州",
+        "country": "CN",
+        "path": "扬州,扬州,江苏,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "67"
+    },
+    {
+      "location": {
+        "id": "WTSTZB2FNR8M",
+        "name": "句容",
+        "country": "CN",
+        "path": "句容,镇江,江苏,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "67"
+    },
+    {
+      "location": {
+        "id": "WKFG79YD1BCG",
+        "name": "毕节",
+        "country": "CN",
+        "path": "毕节,毕节,贵州,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "67"
+    },
+    {
+      "location": {
+        "id": "WW3M6GBCXPV8",
+        "name": "安阳",
+        "country": "CN",
+        "path": "安阳,安阳,河南,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "67"
+    },
+    {
+      "location": {
+        "id": "WTSFWZFDVB90",
+        "name": "溧阳",
+        "country": "CN",
+        "path": "溧阳,常州,江苏,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "67"
+    },
+    {
+      "location": {
+        "id": "WW0V9QP93VS8",
+        "name": "郑州",
+        "country": "CN",
+        "path": "郑州,郑州,河南,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "67"
+    },
+    {
+      "location": {
+        "id": "WXJ51T411GRX",
+        "name": "秦皇岛",
+        "country": "CN",
+        "path": "秦皇岛,秦皇岛,河北,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "67"
+    },
+    {
+      "location": {
+        "id": "WXS86P4BSG4G",
+        "name": "赤峰",
+        "country": "CN",
+        "path": "赤峰,赤峰,内蒙古,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "67"
+    },
+    {
+      "location": {
+        "id": "WTSZNJUFDEP9",
+        "name": "镇江",
+        "country": "CN",
+        "path": "镇江,镇江,江苏,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "67"
+    },
+    {
+      "location": {
+        "id": "YB63388P2QN8",
+        "name": "绥化",
+        "country": "CN",
+        "path": "绥化,绥化,黑龙江,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "67"
+    },
+    {
+      "location": {
+        "id": "WQRM38NMHR7P",
+        "name": "临汾",
+        "country": "CN",
+        "path": "临汾,临汾,山西,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "68"
+    },
+    {
+      "location": {
+        "id": "WTS2N4R0GD1V",
+        "name": "宣城",
+        "country": "CN",
+        "path": "宣城,宣城,安徽,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "68"
+    },
+    {
+      "location": {
+        "id": "WT3SYNJHF48X",
+        "name": "鄂州",
+        "country": "CN",
+        "path": "鄂州,鄂州,湖北,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "68"
+    },
+    {
+      "location": {
+        "id": "WQKE38EK0NBP",
+        "name": "庆阳",
+        "country": "CN",
+        "path": "庆阳,庆阳,甘肃,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "68"
+    },
+    {
+      "location": {
+        "id": "WW372S04V500",
+        "name": "鹤壁",
+        "country": "CN",
+        "path": "鹤壁,鹤壁,河南,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "70"
+    },
+    {
+      "location": {
+        "id": "WT50ZFRU8TYY",
+        "name": "鹰潭",
+        "country": "CN",
+        "path": "鹰潭,鹰潭,江西,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "70"
+    },
+    {
+      "location": {
+        "id": "WPJFKJQ5BCWZ",
+        "name": "嘉峪关",
+        "country": "CN",
+        "path": "嘉峪关,嘉峪关,甘肃,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "70"
+    },
+    {
+      "location": {
+        "id": "WSFXR95RZD21",
+        "name": "抚州",
+        "country": "CN",
+        "path": "抚州,抚州,江西,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "70"
+    },
+    {
+      "location": {
+        "id": "WXF9CJPWG18C",
+        "name": "锡林浩特",
+        "country": "CN",
+        "path": "锡林浩特,锡林郭勒,内蒙古,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "71"
+    },
+    {
+      "location": {
+        "id": "WW2BZF5MQKGW",
+        "name": "新乡",
+        "country": "CN",
+        "path": "新乡,新乡,河南,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "71"
+    },
+    {
+      "location": {
+        "id": "WHQ5514S00XF",
+        "name": "德宏",
+        "country": "CN",
+        "path": "德宏,德宏,云南,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "72"
+    },
+    {
+      "location": {
+        "id": "WWB4T4PKXRH7",
+        "name": "忻州",
+        "country": "CN",
+        "path": "忻州,忻州,山西,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "72"
+    },
+    {
+      "location": {
+        "id": "WW3G3XDR3729",
+        "name": "濮阳",
+        "country": "CN",
+        "path": "濮阳,濮阳,河南,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "72"
+    },
+    {
+      "location": {
+        "id": "TZY33C4YJBP3",
+        "name": "乌鲁木齐",
+        "country": "CN",
+        "path": "乌鲁木齐,乌鲁木齐,新疆,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "72"
+    },
+    {
+      "location": {
+        "id": "WHQWBSVQS7RS",
+        "name": "保山",
+        "country": "CN",
+        "path": "保山,保山,云南,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "72"
+    },
+    {
+      "location": {
+        "id": "WQJQWC27HZX1",
+        "name": "铜川",
+        "country": "CN",
+        "path": "铜川,铜川,陕西,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "73"
+    },
+    {
+      "location": {
+        "id": "WQNZJRJNM3JV",
+        "name": "运城",
+        "country": "CN",
+        "path": "运城,运城,山西,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "73"
+    },
+    {
+      "location": {
+        "id": "WQ36SBF902FR",
+        "name": "临夏",
+        "country": "CN",
+        "path": "临夏,临夏,甘肃,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "73"
+    },
+    {
+      "location": {
+        "id": "WWE8FKWTX2PU",
+        "name": "章丘",
+        "country": "CN",
+        "path": "章丘,济南,山东,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "74"
+    },
+    {
+      "location": {
+        "id": "WZ3T3SEQVEVF",
+        "name": "通化",
+        "country": "CN",
+        "path": "通化,通化,吉林,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "74"
+    },
+    {
+      "location": {
+        "id": "WT62ZWSX5CM0",
+        "name": "九江",
+        "country": "CN",
+        "path": "九江,九江,江西,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "74"
+    },
+    {
+      "location": {
+        "id": "WKDXH1Q2BNXZ",
+        "name": "水城",
+        "country": "CN",
+        "path": "水城,六盘水,贵州,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "74"
+    },
+    {
+      "location": {
+        "id": "WSCWR06PNPFU",
+        "name": "新余",
+        "country": "CN",
+        "path": "新余,新余,江西,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "75"
+    },
+    {
+      "location": {
+        "id": "WSCQ4UBFXPTE",
+        "name": "宜春",
+        "country": "CN",
+        "path": "宜春,宜春,江西,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "75"
+    },
+    {
+      "location": {
+        "id": "WQ1NYPBJ3BD7",
+        "name": "合作",
+        "country": "CN",
+        "path": "合作,甘南,甘肃,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "75"
+    },
+    {
+      "location": {
+        "id": "WHX38U36B3BU",
+        "name": "大理",
+        "country": "CN",
+        "path": "大理,大理,云南,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "75"
+    },
+    {
+      "location": {
+        "id": "WTSPU2JCPU6T",
+        "name": "滁州",
+        "country": "CN",
+        "path": "滁州,滁州,安徽,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "76"
+    },
+    {
+      "location": {
+        "id": "WSCF23JCKNQJ",
+        "name": "吉安",
+        "country": "CN",
+        "path": "吉安,吉安,江西,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "77"
+    },
+    {
+      "location": {
+        "id": "WSBVNTZH3M2C",
+        "name": "萍乡",
+        "country": "CN",
+        "path": "萍乡,萍乡,江西,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "77"
+    },
+    {
+      "location": {
+        "id": "WHPPV7HP148U",
+        "name": "临沧",
+        "country": "CN",
+        "path": "临沧,临沧,云南,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "78"
+    },
+    {
+      "location": {
+        "id": "WWGQDCW6TBW1",
+        "name": "天津",
+        "country": "CN",
+        "path": "天津,天津,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "79"
+    },
+    {
+      "location": {
+        "id": "WW56FQXV5ZHB",
+        "name": "徐州",
+        "country": "CN",
+        "path": "徐州,徐州,江苏,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "80"
+    },
+    {
+      "location": {
+        "id": "WNZMMYCRWTUZ",
+        "name": "张掖",
+        "country": "CN",
+        "path": "张掖,张掖,甘肃,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "80"
+    },
+    {
+      "location": {
+        "id": "WKZ7089YZ20M",
+        "name": "邵阳",
+        "country": "CN",
+        "path": "邵阳,邵阳,湖南,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "82"
+    },
+    {
+      "location": {
+        "id": "WXH13WQT7XKN",
+        "name": "唐山",
+        "country": "CN",
+        "path": "唐山,唐山,河北,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "83"
+    },
+    {
+      "location": {
+        "id": "WQXJ2UGJEGPU",
+        "name": "吕梁",
+        "country": "CN",
+        "path": "吕梁,吕梁,山西,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "84"
+    },
+    {
+      "location": {
+        "id": "WQ66KU06BHB1",
+        "name": "定西",
+        "country": "CN",
+        "path": "定西,定西,甘肃,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "84"
+    },
+    {
+      "location": {
+        "id": "WPN41UK0D3H6",
+        "name": "酒泉",
+        "country": "CN",
+        "path": "酒泉,酒泉,甘肃,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "84"
+    },
+    {
+      "location": {
+        "id": "WM47STMVQSWN",
+        "name": "宜宾",
+        "country": "CN",
+        "path": "宜宾,宜宾,四川,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "84"
+    },
+    {
+      "location": {
+        "id": "WRNP70PG2MPX",
+        "name": "包头",
+        "country": "CN",
+        "path": "包头,包头,内蒙古,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "84"
+    },
+    {
+      "location": {
+        "id": "WSBQQ66C8040",
+        "name": "株洲",
+        "country": "CN",
+        "path": "株洲,株洲,湖南,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "84"
+    },
+    {
+      "location": {
+        "id": "WQJ6YY8MHZP0",
+        "name": "西安",
+        "country": "CN",
+        "path": "西安,西安,陕西,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "85"
+    },
+    {
+      "location": {
+        "id": "WT7W3R63DQMH",
+        "name": "池州",
+        "country": "CN",
+        "path": "池州,池州,安徽,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "87"
+    },
+    {
+      "location": {
+        "id": "WQPJF7T25VCT",
+        "name": "三门峡",
+        "country": "CN",
+        "path": "三门峡,三门峡,河南,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "87"
+    },
+    {
+      "location": {
+        "id": "WQJ7398FTXFD",
+        "name": "咸阳",
+        "country": "CN",
+        "path": "咸阳,咸阳,陕西,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "88"
+    },
+    {
+      "location": {
+        "id": "YB1UX38K6DY1",
+        "name": "哈尔滨",
+        "country": "CN",
+        "path": "哈尔滨,哈尔滨,黑龙江,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "88"
+    },
+    {
+      "location": {
+        "id": "WQJU78X3NFJU",
+        "name": "渭南",
+        "country": "CN",
+        "path": "渭南,渭南,陕西,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "88"
+    },
+    {
+      "location": {
+        "id": "WQPUYY7S4GV2",
+        "name": "洛阳",
+        "country": "CN",
+        "path": "洛阳,洛阳,河南,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "88"
+    },
+    {
+      "location": {
+        "id": "TZY46T9GJ6Y0",
+        "name": "昌吉",
+        "country": "CN",
+        "path": "昌吉,昌吉,新疆,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "88"
+    },
+    {
+      "location": {
+        "id": "WW6RR5W09UKP",
+        "name": "聊城",
+        "country": "CN",
+        "path": "聊城,聊城,山东,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "89"
+    },
+    {
+      "location": {
+        "id": "WSB118FZZ57Y",
+        "name": "衡阳",
+        "country": "CN",
+        "path": "衡阳,衡阳,湖南,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "89"
+    },
+    {
+      "location": {
+        "id": "WQ2D1TXVBJ01",
+        "name": "黄南",
+        "country": "CN",
+        "path": "黄南,黄南,青海,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "89"
+    },
+    {
+      "location": {
+        "id": "WWE0TGW4PX6N",
+        "name": "济南",
+        "country": "CN",
+        "path": "济南,济南,山东,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "90"
+    },
+    {
+      "location": {
+        "id": "WW2MYN52R11E",
+        "name": "长治",
+        "country": "CN",
+        "path": "长治,长治,山西,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "94"
+    },
+    {
+      "location": {
+        "id": "WS86EV4EKUK4",
+        "name": "郴州",
+        "country": "CN",
+        "path": "郴州,郴州,湖南,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "97"
+    },
+    {
+      "location": {
+        "id": "WW23BS9T8PB1",
+        "name": "晋城",
+        "country": "CN",
+        "path": "晋城,晋城,山西,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "98"
+    },
+    {
+      "location": {
+        "id": "WQ82K43YVYU8",
+        "name": "西宁",
+        "country": "CN",
+        "path": "西宁,西宁,青海,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "100"
+    },
+    {
+      "location": {
+        "id": "WQH5TBCEVBMU",
+        "name": "宝鸡",
+        "country": "CN",
+        "path": "宝鸡,宝鸡,陕西,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "104"
+    },
+    {
+      "location": {
+        "id": "WJ97P4G263RF",
+        "name": "那曲",
+        "country": "CN",
+        "path": "那曲,那曲,西藏,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "107"
+    },
+    {
+      "location": {
+        "id": "WZ24BQQTFN10",
+        "name": "本溪",
+        "country": "CN",
+        "path": "本溪,本溪,辽宁,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "109"
+    },
+    {
+      "location": {
+        "id": "WQ6PFTTX1VY6",
+        "name": "白银",
+        "country": "CN",
+        "path": "白银,白银,甘肃,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "114"
+    },
+    {
+      "location": {
+        "id": "WQZZWRV1BGKH",
+        "name": "朔州",
+        "country": "CN",
+        "path": "朔州,朔州,山西,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "117"
+    },
+    {
+      "location": {
+        "id": "WM4UPPEGCN1F",
+        "name": "泸州",
+        "country": "CN",
+        "path": "泸州,泸州,四川,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "122"
+    },
+    {
+      "location": {
+        "id": "TY8G4T7ZWVX1",
+        "name": "和田",
+        "country": "CN",
+        "path": "和田,和田,新疆,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "122"
+    },
+    {
+      "location": {
+        "id": "WNTHRYRP0P8J",
+        "name": "海西",
+        "country": "CN",
+        "path": "海西,海西,青海,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "133"
+    },
+    {
+      "location": {
+        "id": "WQDV3QM9ZDUM",
+        "name": "中卫",
+        "country": "CN",
+        "path": "中卫,中卫,宁夏,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "133"
+    },
+    {
+      "location": {
+        "id": "WQ5HTXNGNE1W",
+        "name": "天水",
+        "country": "CN",
+        "path": "天水,天水,甘肃,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "139"
+    },
+    {
+      "location": {
+        "id": "WKXQ7GRJYT07",
+        "name": "永州",
+        "country": "CN",
+        "path": "永州,永州,湖南,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "139"
+    },
+    {
+      "location": {
+        "id": "WMFW5823J5Q2",
+        "name": "武都",
+        "country": "CN",
+        "path": "武都,陇南,甘肃,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "139"
+    },
+    {
+      "location": {
+        "id": "WQ2Y3RYEE7DY",
+        "name": "海东",
+        "country": "CN",
+        "path": "海东,海东,青海,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "140"
+    },
+    {
+      "location": {
+        "id": "WKQRV6P6WM81",
+        "name": "桂林",
+        "country": "CN",
+        "path": "桂林,桂林,广西,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "152"
+    },
+    {
+      "location": {
+        "id": "WNRW6560ZURV",
+        "name": "海南",
+        "country": "CN",
+        "path": "海南,海南,青海,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "167"
+    },
+    {
+      "location": {
+        "id": "WQ3V4QR6VR6G",
+        "name": "兰州",
+        "country": "CN",
+        "path": "兰州,兰州,甘肃,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "174"
+    },
+    {
+      "location": {
+        "id": "WNPK15RJ0H84",
+        "name": "果洛",
+        "country": "CN",
+        "path": "果洛,果洛,青海,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "199"
+    },
+    {
+      "location": {
+        "id": "TZVHJ8T4HQ93",
+        "name": "石河子",
+        "country": "CN",
+        "path": "石河子,石河子,新疆,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "216"
+    },
+    {
+      "location": {
+        "id": "WQ8ZZ2UYK26X",
+        "name": "武威",
+        "country": "CN",
+        "path": "武威,武威,甘肃,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "380"
+    },
+    {
+      "location": {
+        "id": "WNXF241JU7T0",
+        "name": "海北",
+        "country": "CN",
+        "path": "海北,海北,青海,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "aqi": "500"
+    }
+  ]
+}

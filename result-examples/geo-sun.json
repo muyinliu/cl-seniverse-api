@@ -1,0 +1,91 @@
+{
+  "results": [
+    {
+      "location": {
+        "id": "WX4FBXXFKE4F",
+        "name": "北京",
+        "country": "CN",
+        "path": "北京,北京,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "sun": [
+        {
+          "date": "2017-02-21",
+          "sunrise": "07:02",
+          "sunset": "17:56"
+        },
+        {
+          "date": "2017-02-22",
+          "sunrise": "07:01",
+          "sunset": "17:57"
+        },
+        {
+          "date": "2017-02-23",
+          "sunrise": "06:59",
+          "sunset": "17:59"
+        },
+        {
+          "date": "2017-02-24",
+          "sunrise": "06:58",
+          "sunset": "18:00"
+        },
+        {
+          "date": "2017-02-25",
+          "sunrise": "06:56",
+          "sunset": "18:01"
+        },
+        {
+          "date": "2017-02-26",
+          "sunrise": "06:55",
+          "sunset": "18:02"
+        },
+        {
+          "date": "2017-02-27",
+          "sunrise": "06:54",
+          "sunset": "18:03"
+        },
+        {
+          "date": "2017-02-28",
+          "sunrise": "06:52",
+          "sunset": "18:04"
+        },
+        {
+          "date": "2017-03-01",
+          "sunrise": "06:51",
+          "sunset": "18:05"
+        },
+        {
+          "date": "2017-03-02",
+          "sunrise": "06:49",
+          "sunset": "18:06"
+        },
+        {
+          "date": "2017-03-03",
+          "sunrise": "06:48",
+          "sunset": "18:08"
+        },
+        {
+          "date": "2017-03-04",
+          "sunrise": "06:46",
+          "sunset": "18:09"
+        },
+        {
+          "date": "2017-03-05",
+          "sunrise": "06:45",
+          "sunset": "18:10"
+        },
+        {
+          "date": "2017-03-06",
+          "sunrise": "06:43",
+          "sunset": "18:11"
+        },
+        {
+          "date": "2017-03-07",
+          "sunrise": "06:42",
+          "sunset": "18:12"
+        }
+      ]
+    }
+  ]
+}

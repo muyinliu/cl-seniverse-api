@@ -1,0 +1,84 @@
+{
+  "results": [
+    {
+      "id": "WX4FBXXFKE4F",
+      "name": "北京",
+      "country": "CN",
+      "path": "北京,北京,中国",
+      "timezone": "Asia/Shanghai",
+      "timezone_offset": "+08:00"
+    },
+    {
+      "id": "WX4SUCU47R3T",
+      "name": "昌平",
+      "country": "CN",
+      "path": "昌平,北京,中国",
+      "timezone": "Asia/Shanghai",
+      "timezone_offset": "+08:00"
+    },
+    {
+      "id": "WX4VMUP35BZ0",
+      "name": "怀柔",
+      "country": "CN",
+      "path": "怀柔,北京,中国",
+      "timezone": "Asia/Shanghai",
+      "timezone_offset": "+08:00"
+    },
+    {
+      "id": "WX4DUXSF6714",
+      "name": "石景山",
+      "country": "CN",
+      "path": "石景山,北京,中国",
+      "timezone": "Asia/Shanghai",
+      "timezone_offset": "+08:00"
+    },
+    {
+      "id": "WX4D4S7291H4",
+      "name": "房山",
+      "country": "CN",
+      "path": "房山,北京,中国",
+      "timezone": "Asia/Shanghai",
+      "timezone_offset": "+08:00"
+    },
+    {
+      "id": "WX4G17JWZEK7",
+      "name": "朝阳",
+      "country": "CN",
+      "path": "朝阳,北京,中国",
+      "timezone": "Asia/Shanghai",
+      "timezone_offset": "+08:00"
+    },
+    {
+      "id": "WX4GN7JYY527",
+      "name": "通州",
+      "country": "CN",
+      "path": "通州,北京,中国",
+      "timezone": "Asia/Shanghai",
+      "timezone_offset": "+08:00"
+    },
+    {
+      "id": "WX4QNGWY2FE8",
+      "name": "延庆",
+      "country": "CN",
+      "path": "延庆,北京,中国",
+      "timezone": "Asia/Shanghai",
+      "timezone_offset": "+08:00"
+    },
+    {
+      "id": "WX5JDT1H236N",
+      "name": "密云",
+      "country": "CN",
+      "path": "密云,北京,中国",
+      "timezone": "Asia/Shanghai",
+      "timezone_offset": "+08:00"
+    },
+    {
+      "id": "WX5K31KNJY1W",
+      "name": "平谷",
+      "country": "CN",
+      "path": "平谷,北京,中国",
+      "timezone": "Asia/Shanghai",
+      "timezone_offset": "+08:00"
+    }
+  ]
+}

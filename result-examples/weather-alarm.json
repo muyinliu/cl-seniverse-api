@@ -1,0 +1,24 @@
+{
+  "results": [
+    {
+      "location": {
+        "id": "WX4FBXXFKE4F",
+        "name": "北京",
+        "country": "CN",
+        "path": "北京,北京,中国",
+        "timezone": "Asia/Shanghai",
+        "timezone_offset": "+08:00"
+      },
+      "alarms": [
+        {
+          "title": "北京市北京市北京市气象台发布道路结冰黄色预警",
+          "type": "道路结冰",
+          "level": "黄色",
+          "status": "",
+          "description": "北京市气象台21日12时35分发布道路结冰黄色预警, 目前本市大部分地区已出现降雪天气，地表温度较低，易于形成道路结冰，请注意交通安全。",
+          "pub_date": "2017-02-21T12:35:00+08:00"
+        }
+      ]
+    }
+  ]
+}
