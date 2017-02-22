@@ -20,7 +20,7 @@ Relax, usually Quicklisp will download all these packages for you :)
 In shell:
 ```shell
 git clone https://github.com/muyinliu/cl-thinkpage-api.git
-ln -s cl-thinkpage-api ~/quicklisp/local-projects/cl-thinkpage-api
+cp -r cl-thinkpage-api ~/quicklisp/local-projects/cl-thinkpage-api
 ```
 
 Then in Common Lisp:
