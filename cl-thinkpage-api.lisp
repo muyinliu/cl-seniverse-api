@@ -4,10 +4,12 @@
 (defpackage cl-thinkpage-api
   (:use :cl)
   (:nicknames :thinkpage-api :thinkpage)
+  #+:sbcl (:shadow :defconstant)
+  #+:sb-package-locks (:lock t)
   (:export #:*api-key*
            #:*user-id*
            #:*auth-ttl*
-           #:*supported-language-list*
+           #:+supported-language-list+
            
            ;; Weather APIs
            #:weather-now
@@ -37,14 +39,19 @@
 
 (in-package :cl-thinkpage-api)
 
+(defmacro defconstant (name value &optional doc)
+  "Make sure VALUE is evaluated only once \(to appease SBCL)."
+  `(cl:defconstant ,name (if (boundp ',name) (symbol-value ',name) ,value)
+     ,@(when doc (list doc))))
+
 ;; User information
-(defvar *api-key* "<your api key>")       ;; Please use your own API key
-(defvar *user-id* "<your user id>")       ;; Please use your own User ID
+(defvar *api-key* nil)       ;; Please use your own API key
+(defvar *user-id* nil)       ;; Please use your own User ID
 
 (defvar *auth-ttl* 1800) ;; second
 
 ;; Supported language list
-(defvar *supported-language-list*
+(defconstant +supported-language-list+
   '("zh-Hans" "zh-Hant" "en" "ja" "de" "fr" "es" "pt" "hi" "id" "ru" "th" "ar"))
 
 ;; APIs common URL head
@@ -101,14 +108,43 @@
 (defun unix-time->universal-time (unix-time)
   (+ unix-time *universal-time-diff-unix-time*))
 
-(defun request (api-uri &key (auth-ttl *auth-ttl*) (user-id *user-id*)
-                          location language unit scope
-                          parameters)
+(defun request (api-uri &key (auth-ttl *auth-ttl*)
+                                (api-key *api-key*) (user-id *user-id*)
+                                (api-url-head *api-url-head*)
+                                location language unit scope
+                                parameters)
   "A common function for request thinkpage API in secure way.
 Note: parameters is an alist for http-request."
+  ;; Check api-key & user-id
+  (restart-case
+      (unless api-key
+        (error "api-key can NOT be nill."))
+    (use-value (value)
+      :report (lambda (stream)
+                (format stream "Use another api-key instead."))
+      :interactive (lambda ()
+                     (format *query-io* "Enter api-key: ")
+                     (finish-output *query-io*)
+                     (list (read-line *query-io*)))
+      (setf *api-key* value
+            api-key value)))
+  (restart-case
+      (unless user-id
+        (error "user-id can NOT be nill."))
+    (use-value (value)
+      :report (lambda (stream)
+                (format stream "Use another user-id instead."))
+      :interactive (lambda ()
+                     (format *query-io* "Enter user-id: ")
+                     (finish-output *query-io*)
+                     (list (read-line *query-io*)))
+      (setf *user-id* value
+            user-id value)))
+  
   ;; Check language
   (when language
-    (assert (find language *supported-language-list* :test #'equal)))
+    (assert (find language +supported-language-list+ :test #'equal)))
+  
   ;; Deal with parameters
   (when parameters
     (setf parameters
@@ -120,16 +156,16 @@ Note: parameters is an alist for http-request."
   (let* ((unix-time (universal-time->unix-time (get-universal-time)))
          (string (format nil "ts=~A&ttl=~A&uid=~A"
                          unix-time
-                         *auth-ttl*
-                         *user-id*))
+                         auth-ttl
+                         user-id))
          (string-vector (flex:string-to-octets string :external-format :utf-8))
-         (key-vector (flex:string-to-octets *api-key* :external-format :utf-8))
+         (key-vector (flex:string-to-octets api-key :external-format :utf-8))
          (hmac (ironclad:make-hmac key-vector 'ironclad:sha1))
          (signature (progn
                       (ironclad:update-hmac hmac string-vector)
                       (base64:usb8-array-to-base64-string
                        (ironclad:hmac-digest hmac))))
-         (request-url (format nil "~A~A" *api-url-head* api-uri)))
+         (request-url (format nil "~A~A" api-url-head api-uri)))
     (multiple-value-bind (data status-code)
         (drakma:http-request request-url
                              :parameters (append (list (cons "ts"  (write-to-string unix-time))
