@@ -1,9 +1,9 @@
-;;;; cl-thinkpage-api.lisp
-;;; Plese read this document http://www.thinkpage.cn/doc
+;;;; cl-seniverse-api.lisp
+;;; Plese read this document https://www.seniverse.com/doc
 
-(defpackage cl-thinkpage-api
+(defpackage cl-seniverse-api
   (:use :cl)
-  (:nicknames :thinkpage-api :thinkpage)
+  (:nicknames :seniverse-api :seniverse)
   #+:sbcl (:shadow :defconstant)
   #+:sb-package-locks (:lock t)
   (:export #:*api-key*
@@ -37,7 +37,7 @@
            ;; Location APIs
            #:location-search))
 
-(in-package :cl-thinkpage-api)
+(in-package :cl-seniverse-api)
 
 (defmacro defconstant (name value &optional doc)
   "Make sure VALUE is evaluated only once \(to appease SBCL)."
@@ -55,7 +55,7 @@
   '("zh-Hans" "zh-Hant" "en" "ja" "de" "fr" "es" "pt" "hi" "id" "ru" "th" "ar"))
 
 ;; APIs common URL head
-(defvar *api-url-head* "https://api.thinkpage.cn/v3")
+(defvar *api-url-head* "https://api.seniverse.com/v3")
 
 ;; Weather APIs
 (defvar *api-weather-now-uri* "/weather/now.json"
@@ -113,7 +113,7 @@
                                 (api-url-head *api-url-head*)
                                 location language unit scope
                                 parameters)
-  "A common function for request thinkpage API in secure way.
+  "A common function for request seniverse API in secure way.
 Note: parameters is an alist for http-request."
   ;; Check api-key & user-id
   (restart-case

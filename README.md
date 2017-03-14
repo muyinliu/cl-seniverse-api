@@ -1,9 +1,12 @@
-# cl-thinkpage-api
-cl-thinkpage-api is a Common Lisp SDK of
-[thinkpage API](http://www.thinkpage.cn/doc) to get weather
+# cl-seniverse-api
+cl-seniverse-api is a Common Lisp SDK of
+[seniverse API](https://www.seniverse.com/doc) to get weather
 information(include air information).
 
 Note: Some of the API is NOT free.
+Note: Project has been rename from **cl-thinkpage-api** to
+**cl-seniverse-api** since Website use
+[www.seniverse.com](https://www.seniverse.com/) as domain in 2017-03-14
 
 ## License
 Copyright(c) 2017 Muyinliu Xing Released under the ISC License.
@@ -19,17 +22,17 @@ Relax, usually Quicklisp will download all these packages for you :)
 ## Install and load with QuickLisp
 In shell:
 ```shell
-git clone https://github.com/muyinliu/cl-thinkpage-api.git
-cp -r cl-thinkpage-api ~/quicklisp/local-projects/cl-thinkpage-api
+git clone https://github.com/muyinliu/cl-seniverse-api.git
+cp -r cl-seniverse-api ~/quicklisp/local-projects/cl-seniverse-api
 ```
 
 Then in Common Lisp:
 ```lisp
-(ql:quickload 'cl-thinkpage-api)
+(ql:quickload 'cl-seniverse-api)
 ```
 
 ## Usage
-Note: Please use your own `*api-key*` and `*user-id*` comes from [thinkpage](http://www.thinkpage.cn/), for example:
+Note: Please use your own `*api-key*` and `*user-id*` comes from [seniverse](https://www.seniverse.com/), for example:
 ```lisp
 (setf *api-key* "your-api-key")
 (setf *user-id* "your-user-id")
@@ -37,7 +40,7 @@ Note: Please use your own `*api-key*` and `*user-id*` comes from [thinkpage](htt
 
 ### Get current weather information
 ```lisp
-(thinkpage:weather-now "beijing")
+(seniverse:weather-now "beijing")
 ```
 
 Result example:
@@ -47,9 +50,9 @@ Result example:
 ```
 
 Note: More result example should check directory `/result-examples/`
-and [thinkpage API Document](http://www.thinkpage.cn/doc)
+and [seniverse API Document](https://www.seniverse.com/doc)
 
-Note: More function please read file **cl-thinkpage-api.lisp**
+Note: More function please read file **cl-seniverse-api.lisp**
 
 
 ## More
